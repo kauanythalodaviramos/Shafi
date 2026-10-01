@@ -2,8 +2,7 @@
 
 <div align="center">
 
-![Shafi Interface](<img width="789" height="546" alt="5d0f9693-839f-45f8-9633-6327e6bd5ab6" src="https://github.com/user-attachments/assets/87b4f26a-7425-4b7d-a8b5-611ee2ad35f4" />
-)
+<img width="789" height="546" alt="Shafi Interface" src="https://github.com/user-attachments/assets/87b4f26a-7425-4b7d-a8b5-611ee2ad35f4" />
 
 A modern, professional TCP Client-Server File Sharing System (SICA) built with Java and Java Swing, featuring a clean pink UI theme, real-time connection status checking, local file selection via file manager, and custom download path mapping.
 
@@ -44,20 +43,17 @@ A modern, professional TCP Client-Server File Sharing System (SICA) built with J
 ### Main Interface & Connection Status
 When you launch the client, type the server's IP address into the top text box and click **Connect / Refresh**. The status label below will dynamically update to show whether you are successfully connected or disconnected.
 
-> ![Main Interface](<img width="789" height="546" alt="5d0f9693-839f-45f8-9633-6327e6bd5ab6" src="https://github.com/user-attachments/assets/3f71bcbb-3bd2-45a0-bcaa-c67a5357b8e2" />
-)
+> <img width="789" height="546" alt="Main Interface" src="https://github.com/user-attachments/assets/3f71bcbb-3bd2-45a0-bcaa-c67a5357b8e2" />
 
 ### Uploading Files
 Clicking **Choose and Send File** opens your computer's native file manager so you can select any file to transmit to the server. Once uploaded, it appears instantly on the left list (`My Sent Files`).
 
-> ![File Manager Upload](<img width="793" height="549" alt="8ed9b4b5-bb9c-465b-b0e1-fd70f9a67cea" src="https://github.com/user-attachments/assets/2ff47f6f-2c92-42cf-980d-e7b5c9127a9e" />
-)
+> <img width="793" height="549" alt="File Manager Upload" src="https://github.com/user-attachments/assets/2ff47f6f-2c92-42cf-980d-e7b5c9127a9e" />
 
 ### Choosing a Download Destination
 When downloading selected or all files, a directory chooser dialog opens, allowing you to pick precisely where you want to save the downloaded items on your PC.
 
-> ![Select Destination Folder](<img width="784" height="545" alt="59fc83a7-b131-435f-ba1d-6dae9643131e" src="https://github.com/user-attachments/assets/5a9176e5-e471-460e-b1f1-f2a558601089" />
-)
+> <img width="784" height="545" alt="Select Destination Folder" src="https://github.com/user-attachments/assets/5a9176e5-e471-460e-b1f1-f2a558601089" />
 
 ---
 
